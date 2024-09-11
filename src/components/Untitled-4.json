@@ -1,0 +1,311 @@
+[
+  {
+    "createdAt": "2024-09-04",
+    "id": 1,
+    "groupName": "Development Team",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": "admin_user",
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-04",
+    "id": 2,
+    "groupName": "Team",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": "admin_user",
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-04",
+    "id": 3,
+    "groupName": "Team",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-04",
+    "id": 4,
+    "groupName": "dataengineer",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-04",
+    "id": 5,
+    "groupName": "data",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-04",
+    "id": 6,
+    "groupName": "python",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-04",
+    "id": 7,
+    "groupName": "react",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-04",
+    "id": 8,
+    "groupName": "java",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 9,
+    "groupName": "grtrt",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 10,
+    "groupName": "group5",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 11,
+    "groupName": "hiii",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 12,
+    "groupName": "hiiiiii",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 13,
+    "groupName": "dataScientist",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 14,
+    "groupName": "hiiii",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 15,
+    "groupName": "gghg",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 16,
+    "groupName": "gggg",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 17,
+    "groupName": "stringtttt",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 18,
+    "groupName": "bala",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 19,
+    "groupName": "siva",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 20,
+    "groupName": "tamil",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 21,
+    "groupName": "hari",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-05",
+    "id": 22,
+    "groupName": "yoga",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 23,
+    "groupName": "hariii652161",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 24,
+    "groupName": "balaaaaaa21212",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 25,
+    "groupName": "gggggg555",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 26,
+    "groupName": "gf54545",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 27,
+    "groupName": "lisrerer",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 28,
+    "groupName": "yyyyyyyy12122",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 29,
+    "groupName": "xyxyxyxyxyx",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 30,
+    "groupName": "dddddddd",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  },
+  {
+    "createdAt": "2024-09-06",
+    "id": 31,
+    "groupName": "adas",
+    "updatedAt": null,
+    "deletedAt": null,
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null
+  }]
