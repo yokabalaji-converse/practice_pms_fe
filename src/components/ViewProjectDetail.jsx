@@ -81,63 +81,6 @@ export const ViewProjectDetail = ({ selectedData }) => {
             {selectedData?.projectAccess}
           </div>
         </div>
-        {/*   <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div>
-        <div className="grid grid-cols-2">
-          <div>Project name</div>
-          <div>{selectedData?.projectName}</div>
-        </div> */}
       </div>
     </>
   );
